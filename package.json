@@ -1,0 +1,19 @@
+{
+  "name": "aula-05_09---nodes_js",
+  "version": "1.0.0",
+  "description": "Projeto Boa Noite NodeJS com NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "http"
+  ],
+  "author": "Eduardo Gobbato <egobbato@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
